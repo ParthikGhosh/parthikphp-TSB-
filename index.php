@@ -1,5 +1,5 @@
 <?php
-$dbhost = getenv("uri");
+$dbhost = "localhost";
 $dbuser = getenv("username");
 $dbpwd = getenv("password");
 $dbname = getenv("database_name");
