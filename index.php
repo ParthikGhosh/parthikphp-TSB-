@@ -1,5 +1,6 @@
 <?php
-$dbhost = localhost;
+$dbhost = getenv("uri");
+$dbport = "3306";
 $dbuser = getenv("username");
 $dbpwd = getenv("password");
 $dbname = getenv("database_name");
