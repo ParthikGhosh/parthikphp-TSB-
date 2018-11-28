@@ -1,3 +1,3 @@
 <?php
-echo "This is a simple php application";
-echo "<br><h2>Welcome to Parthik.  Example of simple pipe line concept</h2><br>";
+echo "<h1>Welcome Parthik</h2>";
+echo "<br><h2>Simple pipe line concept</h2><br>";
